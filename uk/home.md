@@ -2,14 +2,14 @@
 title: Головна
 description: wiki.commishes.com
 published: true
-date: 2023-03-05T23:17:58.916Z
+date: 2023-03-05T23:18:20.071Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-05T18:12:22.245Z
 ---
 
 # Головна
-Ласкаво просимо до "Commishes Wiki", подякуйте нашому колективу!
+Ласкаво просимо до "Commishes Wiki", подякуємо нашому колективу!
 
 
 ## Наша команда
