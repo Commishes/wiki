@@ -2,7 +2,7 @@
 title: Головна
 description: wiki.commishes.com
 published: true
-date: 2023-03-05T23:18:20.071Z
+date: 2023-03-07T17:16:04.855Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-05T18:12:22.245Z
@@ -22,7 +22,7 @@ dateCreated: 2023-03-05T18:12:22.245Z
 <a href="https://ping.commishes.com/@Varinis">Varinis</a> — модератор
 <a href="https://ping.commishes.com/@ashbunn">Ashbunn</a> — модератор
 
-*<a href="https://ping.commishes.com/@A_Quilark">Calvin the Quilark</a> — модератор*
+<a href="https://ping.commishes.com/@A_Quilark">Calvin the Quilark</a> — модератор у хіатусі
 
 
 ## Найголовніші секції
