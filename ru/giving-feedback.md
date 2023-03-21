@@ -1,8 +1,8 @@
 ---
 title: Обратная связь
 description: Почему обратная связь важна
-published: false
-date: 2023-03-21T18:47:24.725Z
+published: true
+date: 2023-03-21T18:47:46.831Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-21T18:47:24.725Z
