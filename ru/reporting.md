@@ -2,7 +2,7 @@
 title: Жалобы
 description: Система подачи жалоб, ее устройство и принцип работы
 published: false
-date: 2023-03-22T18:27:22.886Z
+date: 2023-03-22T18:27:59.122Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-21T19:16:14.752Z
